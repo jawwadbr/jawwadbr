@@ -2,7 +2,7 @@
 <p align=left> <img src=https://komarev.com/ghpvc/?username=JawwadBR alt=JawwadBR /> </p>
 <h2 align="left"> About Me </h2>
 
-#### I'm a back-end Java developer. Eager to find my first job in the field and put my skills inreal-world projects.
+#### I'm a back-end Java developer. Eager to find my first job in the field and put my skills in real-world projects.
 
 - 🎓 Currently studying Software Analysis and Development.
 - 🌱 I’m currently learning more about [Spring Boot](https://spring.io/projects/spring-boot/)
